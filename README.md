@@ -4,9 +4,9 @@ Compare AMD and Intel CPUs based on performance, cost, and value with an interac
 
 ## 🚀 Live Demo
 
-👉 [Launch the App](https://smart-chip.streamlit.app)
+👉 [Launch the App](https://smartchip.streamlit.app)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-chip.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smartchip.streamlit.app)
 
 ## 📂 Features
 
