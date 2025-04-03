@@ -1,32 +1,22 @@
 # 🧠 Smart-Chip
 
-A CPU Benchmark Comparison Tool built with Streamlit.  
-Easily compare AMD and Intel CPUs based on performance, cost, and performance-per-dollar metrics.
+Compare AMD and Intel CPUs based on performance, cost, and value with an interactive Streamlit app.
 
-## 📸 Features
-- Upload your own CPU data or use the default dataset
-- Interactive visual comparison between CPUs
-- Two graphs:
-  - Performance vs Performance/$
-  - Performance vs Cost (log scale)
-- View best value CPUs under a chosen budget
+## 🚀 Live Demo
 
-## 🚀 How to Run
+👉 [Launch the App](https://smart-chip.streamlit.app)
 
-1. Clone the repo:
-git clone https://github.com/SamiNachwati/smart-chip.git cd smart-chip
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-chip.streamlit.app)
 
+## 📂 Features
 
-2. Install dependencies:
-pip install -r requirements.txt
-
-
-3. Run the app:
-## 📂 Data Format
-The default file `multi_core_cpu_data.txt` should contain lines like:
-AMD Ryzen 9 5950X (97%) 72,845 $799.99
-
+- Upload custom CPU data or use default dataset
+- Interactive plots:
+  - Performance vs. Performance/$
+  - Performance vs. Cost (log scale)
+- Highlights best CPU picks under a selected budget
 
 ## 👨‍💻 Author
-Sami Nachwati  
+
+**Sami Nachwati**  
 [GitHub](https://github.com/SamiNachwati) • [LinkedIn](https://linkedin.com/in/sami-nachwati-519288264)
