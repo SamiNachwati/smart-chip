@@ -1,0 +1,1163 @@
+#
+# The data for this text file was derived from 
+#
+# https://www.cpubenchmark.net/high_end_cpus.html
+# on Feb 10th, 2024
+#
+# The data is loosely structured and lists names, performance metrics, and
+# recent cost estimates of various AMD and Intel processors. The data is
+# not complete in all case. Some processors have no dollar figure associated 
+# with them. 
+#
+# Performance metrics are provided for multi-core behaviour in the 2nd
+# to the last column. The AMD Ryzen Threadripper PRO 7995WXWX has a price 
+# of over $9,999 with a performance rating of over 152,000 CPU Marks
+#
+# The full details of the measurement procedure are described on the web site,
+# along with many other interesting metrics. 
+
+AMD Ryzen Threadripper PRO 7995WX (86%) 152,671 $9,999.00*
+AMD Ryzen Threadripper 7980X (76%) 133,905 NA
+AMD Ryzen Threadripper PRO 7985WX (76%) 133,732 NA
+AMD EPYC 9654 (71%) 126,045 $6,690.00
+AMD EPYC 9654P (64%) 113,949 $10,625.00*
+AMD EPYC 9554P (62%) 109,858 $7,104.00*
+AMD EPYC 9474F (59%) 104,894 NA
+AMD Ryzen Threadripper PRO 7975WX (56%) 99,349 NA
+AMD Ryzen Threadripper 7970X (56%) 99,129 NA
+AMD EPYC 9454P (54%) 96,088 $4,598.00*
+Intel Xeon w9-3495X (54%) 95,326 $5,889.00*
+AMD Ryzen Threadripper PRO 5995WX (52%) 92,914 $5,699.99
+AMD EPYC 7773X (52%) 91,491 $4,999.00
+Intel Xeon Platinum 8470 @2.00GHz (51%) 89,850 $9,359.00*
+AMD EPYC 9534 (50%) 88,716 NA
+AMD EPYC 7763 (49%) 86,472 $2,494.00
+AMD EPYC 7J13 (48%) 85,683 NA
+AMD Ryzen Threadripper PRO 7965WX (48%) 84,785 NA
+AMD EPYC 7713 (47%) 83,566 $3,299.99
+AMD Ryzen Threadripper PRO 3995WX (47%) 83,562 $6,866.00
+AMD EPYC 7V13 (47%) 82,878 NA
+AMD Ryzen Threadripper 7960X (46%) 82,113 NA
+AMD EPYC 7T83 (46%) 81,757 NA
+AMD EPYC 9754 (46%) 81,404 NA
+AMD EPYC 7663 (46%) 81,228 NA
+AMD Ryzen Threadripper 3990X (46%) 80,903 $4,861.00
+AMD EPYC 7713P (45%) 80,373 $3,850.00
+AMD EPYC 9354P (44%) 78,796 NA
+AMD EPYC 7B13 (44%) 77,460 NA
+AMD EPYC 7643 (43%) 76,455 $4,550.00*
+AMD Ryzen Threadripper PRO 5975WX (43%) 75,834 $2,699.99
+Intel Xeon Platinum 8461V (42%) 74,982 $4,491.00*
+AMD EPYC 9274F (41%) 73,463 NA
+AMD EPYC 7662 (41%) 73,321 $3,999.99*
+AMD EPYC 7573X (40%) 70,868 $4,962.00
+AMD EPYC 9254 (40%) 70,630 NA
+AMD EPYC 7702 (39%) 69,872 $1,013.00
+AMD EPYC 7H12 (39%) 69,633 $3,719.00
+AMD EPYC 7742 (39%) 69,183 $2,098.00
+AMD EPYC 75F3 (39%) 68,505 $4,999.00
+Intel Xeon w7-3465X (38%) 67,465 $2,889.00*
+Intel Xeon w9-3475X (38%) 66,995 $3,739.00*
+AMD EPYC 7543P (37%) 66,624 $2,350.00*
+AMD Ryzen Threadripper PRO 5965WX (37%) 66,068 $1,999.99
+AMD EPYC 7B12 (37%) 65,658 NA
+AMD EPYC 9334 (37%) 65,279 NA
+AMD EPYC 7R32 (36%) 64,727 NA
+AMD EPYC 7702P (36%) 63,633 $1,898.00
+AMD Ryzen Threadripper 3970X (36%) 63,283 $2,495.00
+AMD Ryzen 9 7950X (35%) 63,070 $540.99
+AMD EPYC 9224 (35%) 62,900 NA
+AMD Ryzen Threadripper PRO 3975WX (35%) 62,893 $2,997.19
+AMD Ryzen 9 7950X3D (35%) 62,606 $661.08
+Intel Xeon Platinum 8380 @ 2.30GHz (35%) 62,318 $8,978.00*
+Intel Core i9-14900F (35%) 62,010 $524.00*
+Intel Core i9-13900KS (35%) 61,883 $999.99
+Intel Core i9-14900K (34%) 61,134 $589.00*
+AMD Ryzen Threadripper PRO 7955WX (34%) 61,073 NA
+AMD EPYC 74F3 (34%) 60,666 $3,047.00
+Intel Xeon Gold 6448Y (34%) 60,449 $3,583.00*
+AMD EPYC 7543 (34%) 60,132 $3,761.00*
+Intel Core i9-14900KF (34%) 60,044 NA
+AMD EPYC 7513 (34%) 59,988 $2,840.00*
+Intel Core i9-13900K (33%) 59,441 $569.97
+AMD EPYC 7473X (33%) 59,280 NA
+AMD Ryzen 9 7945HX3D (33%) 59,124 NA
+Intel Xeon w7-2495X (33%) 59,099 $2,603.96*
+Intel Xeon W-3375 @ 2.50GHz (33%) 59,069 $4,499.00*
+Intel Xeon W-3365 @ 2.70GHz (33%) 59,038 $3,851.00*
+Intel Xeon Gold 6421N (33%) 58,797 $2,368.00*
+Intel Core i9-13900KF (33%) 58,754 $546.49
+AMD EPYC 7642 (32%) 57,725 $1,185.00
+Intel Xeon Gold 5420+ (32%) 57,593 $1,848.00*
+Intel Xeon Gold 6423N (32%) 57,434 $2,161.00*
+Intel Core i9-14900 (32%) 57,276 $549.00*
+Intel Xeon Gold 6414U (32%) 57,200 $2,296.00*
+AMD EPYC 7443P (32%) 57,111 $1,683.99*
+AMD Ryzen 9 7940HX (32%) 56,520 NA
+Intel Xeon Platinum 8375C @ 2.90GHz (31%) 55,705 NA
+AMD EPYC 7443 (31%) 55,525 $2,230.99*
+AMD EPYC 9174F (31%) 55,485 $4,654.00
+AMD Ryzen 9 7945HX (31%) 55,358 NA
+AMD Ryzen Threadripper 3960X (31%) 54,871 $1,474.51
+Intel Xeon Platinum 8358 @ 2.60GHz (30%) 54,416 $5,097.75*
+Intel Xeon w7-2475X (30%) 54,097 $1,789.00*
+Intel Xeon Platinum 8360Y @ 2.40GHz (30%) 54,078 $5,383.00*
+Intel Core i7-14700K (30%) 53,667 $409.00*
+Intel Core i7-14700KF (30%) 53,262 $384.00*
+AMD EPYC 7532 (30%) 53,051 $1,959.00
+Intel Xeon Gold 5412U (30%) 53,015 $1,113.00*
+Intel Xeon Gold 6438N (30%) 52,789 $3,351.00*
+Intel Xeon Gold 6348 @ 2.60GHz (29%) 52,276 $2,126.33
+Intel Core i9-13900F (29%) 52,027 $526.03
+AMD Ryzen 9 7900X (29%) 52,019 $409.00
+AMD EPYC 7552 (29%) 51,104 $1,778.00
+AMD Ryzen Threadripper PRO 7945WX (28%) 50,835 NA
+AMD EPYC 7453 (28%) 50,575 $1,727.68
+AMD Ryzen 9 7900X3D (28%) 50,567 $561.05
+AMD Ryzen Threadripper PRO 5955WX (28%) 50,358 $1,099.99
+AMD EPYC 7413 (28%) 50,223 $1,997.99*
+AMD EPYC 7502P (28%) 50,193 $1,699.96
+AMD EPYC 7F72 (28%) 50,050 NA
+Intel Xeon Platinum 8347C @ 2.10GHz (28%) 49,386 NA
+AMD EPYC 7K62 (27%) 49,104 NA
+Intel Core i7-14700 (27%) 49,008 $384.00*
+AMD Ryzen 9 7900 (27%) 48,950 $419.99
+AMD EPYC 7R12 (27%) 48,934 NA
+Apple M2 Ultra 24 Core (27%) 48,716 NA
+Intel Xeon W-3345 @ 3.00GHz (27%) 48,261 $2,499.00*
+Intel Core i9-13900 (27%) 48,100 $549.99
+Intel Xeon Gold 6314U @ 2.30GHz (27%) 48,013 $2,782.00*
+AMD EPYC 7452 (27%) 47,951 $1,349.00
+AMD Ryzen 9 PRO 7945 (27%) 47,938 NA
+Intel Core i9-13980HX (27%) 47,823 $668.00*
+AMD EPYC 7402 (27%) 47,554 $1,492.00
+Intel Core i7-14700F (26%) 47,379 $359.00*
+Intel Xeon Gold 6342 @ 2.80GHz (26%) 47,320 $2,388.05*
+Intel Xeon w5-3435X (26%) 46,823 $1,589.00*
+AMD EPYC 7542 (26%) 46,747 $1,298.06
+Intel Core i7-13700K (26%) 46,633 $407.99
+AMD Ryzen 9 7845HX (26%) 46,489 NA
+ARM Neoverse-N1 128 Core 3000 MHz (26%) 46,480 NA
+Intel Core i7-13700KF (26%) 46,457 $390.98
+Intel Xeon w5-2465X (26%) 46,326 $1,389.00*
+Intel Core i7-13790F (26%) 46,110 NA
+AMD EPYC 73F3 (26%) 46,103 $3,966.35
+AMD EPYC 7502 (26%) 45,839 $875.00
+AMD Ryzen 9 5950X (26%) 45,736 $441.71
+Intel Xeon Gold 6336Y @ 2.40GHz (25%) 45,517 $1,929.95
+Intel Core i9-14900HX (25%) 45,450 $679.00*
+Intel Xeon Silver 4416+ (25%) 45,127 $1,176.00*
+Intel Core i9-13950HX (25%) 44,797 $590.00*
+Intel Core i9-13900HX (25%) 44,659 $668.00*
+AMD EPYC 7343 (25%) 44,189 $1,699.99*
+Intel Core i9-12900KS (25%) 44,166 $399.99
+Intel Core i9-13900T (25%) 44,015 $549.00*
+AMD EPYC 9124 (24%) 43,866 $1,797.00
+ARM Neoverse-N1 128 Core 2800 MHz (24%) 43,111 NA
+Intel Xeon Gold 6330 @ 2.00GHz (24%) 43,056 $1,230.00
+AMD EPYC 7402P (24%) 42,899 $888.76
+AMD EPYC 7D12 (24%) 42,762 NA
+Intel Xeon Gold 6338N @ 2.20GHz (24%) 42,552 $4,671.69*
+Intel Xeon Gold 6312U @ 2.40GHz (23%) 42,124 $1,809.59*
+AMD EPYC 7313P (23%) 42,032 $913.00*
+Intel Xeon w7-3445 (23%) 41,588 $1,989.00*
+Intel Xeon W-3275 @ 2.50GHz (23%) 41,554 $4,894.00*
+Intel Xeon Gold 6426Y (23%) 41,447 $1,517.00*
+Intel Xeon Gold 6354 @ 3.00GHz (23%) 41,445 $2,757.99*
+Intel Core i9-12900K (23%) 41,361 $352.99
+Intel Core i9-12900KF (23%) 41,194 $398.99
+Apple M1 Ultra 20 Core (23%) 40,892 NA
+Intel Xeon Platinum 8275CL @ 3.00GHz (23%) 40,794 NA
+AMD Ryzen Threadripper PRO 5945WX (23%) 40,608 NA
+Intel Core i5-14600 (23%) 40,540 $255.00*
+AMD Ryzen Threadripper PRO 3955WX (22%) 40,374 $990.80
+AMD EPYC 7352 (22%) 40,096 $949.95
+AMD EPYC 7313 (22%) 40,075 $1,151.55
+Apple M3 Max 16 Core (22%) 40,033 NA
+AMD EPYC 7F52 (22%) 39,923 $3,100.00*
+Intel Core i5-14600K (22%) 39,691 $319.00*
+Intel Core i7-13700F (22%) 39,313 $360.99
+Intel Xeon W-3335 @ 3.40GHz (22%) 39,293 $1,299.00*
+AMD Ryzen 9 5900X (22%) 39,206 $299.99
+Intel Core i7-14650HX (22%) 39,059 $495.00*
+Intel Core i5-14600KF (22%) 38,949 $294.00*
+AMD Ryzen 9 3950X (22%) 38,843 $459.99
+AMD EPYC 7551P (22%) 38,694 $368.41
+Intel Xeon W-3275M @ 2.50GHz (21%) 38,622 $7,453.00*
+Intel Core i7-13850HX (21%) 38,501 $428.00*
+Intel Xeon Platinum 8180 @ 2.50GHz (21%) 38,259 $3,980.00
+Intel Core i5-13600K (21%) 38,226 $309.99
+Intel Core i5-13600KF (21%) 38,033 $292.99
+Intel Core i7-13700 (21%) 37,967 $349.99
+Intel Xeon w5-2455X (21%) 37,898 $1,039.00*
+Intel Core i7-14700HX (21%) 37,808 NA
+Intel Xeon Gold 6346 @ 3.10GHz (21%) 37,722 $1,544.16
+Intel Xeon Gold 5320 @ 2.20GHz (21%) 37,558 $1,645.00
+Intel Xeon Gold 6238R @ 2.20GHz (21%) 37,511 $2,341.99
+Intel Xeon Silver 4316 @ 2.30GHz (21%) 37,264 $925.00
+Intel Xeon W-3175X @ 3.10GHz (21%) 37,167 $2,660.69
+Intel Core i9-12900F (21%) 36,935 $425.00
+Intel Xeon Gold 6268CL @ 2.80GHz (21%) 36,878 NA
+Intel Xeon Gold 5416S (20%) 36,735 $944.00*
+ARM Neoverse-N1 80 Core 3000 MHz (20%) 36,435 NA
+Intel Xeon w5-3425 (20%) 36,404 $1,189.00*
+Intel Xeon Gold 6330N @ 2.20GHz (20%) 36,360 $2,391.99*
+AMD Ryzen 7 7700X (20%) 36,086 $315.75
+Intel Xeon Gold 6248R @ 3.00GHz (20%) 35,626 $1,993.65
+Apple M3 Max 14 Core (20%) 35,433 NA
+Intel Xeon Gold 6326 @ 2.90GHz (20%) 35,224 $1,349.34
+Intel Core i9-12900TE (19%) 35,057 $544.00*
+AMD Ryzen 7 PRO 7745 (19%) 35,006 NA
+Intel Xeon Gold 6242R @ 3.10GHz (19%) 34,963 $1,998.33
+AMD Ryzen 9 PRO 5945 (19%) 34,756 NA
+Intel Core i9-12900HX (19%) 34,687 $606.00*
+Intel Core i7-12700K (19%) 34,680 $409.00*
+AMD Ryzen 7 7700 (19%) 34,631 $319.79
+AMD Ryzen 9 5900 (19%) 34,472 NA
+Intel Core i7-12700KF (19%) 34,466 $276.00
+AMD Ryzen 7 7800X3D (19%) 34,425 $439.00
+Intel Core i9-12900 (19%) 34,335 $449.99
+Intel Core i7-13700HX (19%) 34,150 $485.00*
+AMD EPYC 7601 (19%) 34,079 $1,429.99
+Intel Core i9-13900E (19%) 34,049 $554.00*
+Intel Xeon Platinum 8260M @ 2.30GHz (19%) 33,970 $7,705.00*
+Intel Xeon Gold 6338 @ 2.00GHz (19%) 33,814 $1,622.30
+Intel Xeon D-2799 @ 2.40GHz (19%) 33,792 $1,933.00*
+Intel Xeon Gold 6230R @ 2.10GHz (19%) 33,724 $1,369.41
+AMD Ryzen Threadripper PRO 3945WX (19%) 33,504 NA
+Intel Xeon Gold 5220R @ 2.20GHz (19%) 33,370 $1,320.00
+Intel Xeon Gold 6240R @ 2.40GHz (18%) 33,353 $1,399.38
+Intel Xeon Gold 5318Y @ 2.10GHz (18%) 33,283 $1,700.00*
+AMD EPYC 7302 (18%) 33,002 $567.58
+Intel Core i9-12950HX (18%) 32,933 $590.00*
+Intel Core i9-10980XE @ 3.00GHz (18%) 32,855 $1,121.48
+Intel Xeon Gold 6278C @ 2.60GHz (18%) 32,835 NA
+AMD Ryzen 7 7745HX (18%) 32,833 NA
+Intel Xeon Platinum 8168 @ 2.70GHz (18%) 32,811 $2,292.00
+Intel Xeon Platinum 8280 @ 2.70GHz (18%) 32,781 $4,410.10
+AMD Ryzen 9 3900XT (18%) 32,744 $390.00
+Intel Core i5-13600 (18%) 32,706 $255.00*
+AMD Ryzen 9 3900X (18%) 32,673 $216.99
+Intel Core i7-12800HX (18%) 32,641 $457.00*
+AMD EPYC 7302P (18%) 32,612 $849.00
+Intel Core Ultra 9 185H (18%) 32,570 NA
+AMD Ryzen Threadripper 2990WX (18%) 32,533 $1,999.99
+Intel Xeon w5-2445 (18%) 32,428 $839.00*
+Intel Core i5-14500 (18%) 32,232 $232.00*
+Intel Core i5-13500 (18%) 32,215 $247.98
+AMD Ryzen 7 8700G (18%) 32,143 NA
+Intel Core i9-9980XE @ 3.00GHz (18%) 32,137 $1,087.01
+Intel Core i7-13650HX (18%) 32,068 $485.00*
+Intel Xeon W-3265M @ 2.70GHz (18%) 32,025 $6,353.00*
+Intel Xeon Platinum 8173M @ 2.00GHz (18%) 31,837 NA
+Intel Xeon Platinum 8268 @ 2.90GHz (18%) 31,632 $6,005.98*
+AMD Ryzen 9 PRO 3900 (17%) 31,591 NA
+Intel Core Ultra 7 165H (17%) 31,583 NA
+Intel Core i9-13905H (17%) 31,577 $697.00*
+Intel Core i9-13900HK (17%) 31,270 $697.00*
+AMD EPYC 7371 (17%) 31,094 $609.99
+AMD Ryzen 9 7940H (17%) 30,873 NA
+Intel Core i7-12700 (17%) 30,870 $325.49
+AMD Ryzen 9 3900 (17%) 30,822 $504.05
+Intel Xeon Platinum 8259CL @ 2.50GHz (17%) 30,805 NA
+Intel Core i7-12700F (17%) 30,800 $284.99
+Intel Core i7-12850HX (17%) 30,750 $428.00*
+Intel Xeon W-2295 @ 3.00GHz (17%) 30,673 $1,670.26*
+Intel Core i9-9960X @ 3.10GHz (17%) 30,638 $1,398.11
+Intel Xeon Platinum 8171M @ 2.60GHz (17%) 30,632 NA
+Intel Xeon E-2488 (17%) 30,571 $606.00*
+AMD EPYC Embedded 7292P (17%) 30,542 NA
+AMD Ryzen 9 7940HS (17%) 30,510 NA
+Intel Xeon W-3245 @ 3.20GHz (17%) 30,505 $2,683.99*
+Intel Xeon Gold 6246R @ 3.40GHz (17%) 30,468 $1,991.93
+Intel Xeon Gold 6254 @ 3.10GHz (17%) 30,381 $2,299.50
+Intel Core i9-12900T (17%) 30,315 $489.00*
+Intel Core i9-7980XE @ 2.60GHz (17%) 30,288 $773.28
+Intel Core i9-9990XE @ 4.00GHz (17%) 30,162 $2,163.00*
+Intel Xeon W-3265 @ 2.70GHz (17%) 30,105 $4,551.37*
+Intel Xeon Platinum 8270 @ 2.70GHz (17%) 29,986 $8,477.00*
+AMD Ryzen Threadripper 2970WX (17%) 29,949 $1,439.00
+Intel Core i7-12800HE (16%) 29,805 $506.00*
+Intel Core i5-13600HX (16%) 29,621 $284.00*
+Intel Xeon Gold 6248 @ 2.50GHz (16%) 29,504 $1,445.00
+AMD EPYC 7282 (16%) 29,496 $495.00
+Intel Core i9-13900H (16%) 29,426 $617.00*
+AMD Ryzen Threadripper 2950X (16%) 29,390 $1,075.00
+Intel Xeon Platinum 8260 @ 2.40GHz (16%) 29,360 $2,735.00
+Intel Xeon Silver 4314 @ 2.40GHz (16%) 29,346 $525.75
+Intel Core i7-12700E (16%) 29,289 $344.00*
+Intel Xeon Gold 6148 @ 2.40GHz (16%) 28,999 $395.85
+AMD Ryzen 7 7840HS (16%) 28,986 NA
+Intel Xeon Gold 6210U @ 2.50GHz (16%) 28,915 $2,343.23*
+Intel Xeon Silver 4410T (16%) 28,859 $624.00*
+Intel Xeon W-2191B @ 2.30GHz (16%) 28,803 NA
+Intel Core i9-7960X @ 2.80GHz (16%) 28,781 $367.98
+AMD Ryzen 7 7840H (16%) 28,778 NA
+Intel Xeon Gold 6238 @ 2.10GHz (16%) 28,668 $7,360.00
+Intel Xeon Gold 6154 @ 3.00GHz (16%) 28,632 $1,697.00
+AMD Ryzen 5 7600X (16%) 28,629 $218.00
+Intel Xeon Gold 6253CL @ 3.10GHz (16%) 28,549 NA
+Intel Xeon D-2795NT @ 2.00GHz (16%) 28,463 $2,228.00*
+Intel Core i9-12900H (16%) 28,392 $617.00*
+AMD Ryzen 9 PRO 7940HS (16%) 28,300 NA
+AMD Ryzen 7 5800X3D (16%) 28,275 $289.55
+Intel Core i5-13500HX (16%) 28,196 $326.00*
+Intel Core i7-13700T (16%) 28,135 $384.00*
+ARM Neoverse-N1 64 Core 0 MHz (15%) 28,064 NA
+Intel Core i9-9940X @ 3.30GHz (15%) 28,059 $871.03
+Intel Core i9-12900HK (15%) 28,036 $635.00*
+Intel Core i5-13500E (15%) 28,036 $235.00*
+AMD EPYC 7401P (15%) 28,030 $199.98
+Intel Xeon W-2195 @ 2.30GHz (15%) 27,985 $1,983.82*
+Intel Xeon Platinum 8160 @ 2.10GHz (15%) 27,968 $2,295.00
+AMD Ryzen 7 5800X (15%) 27,940 $225.03
+Intel Core i9-10940X @ 3.30GHz (15%) 27,870 $897.05
+Intel Xeon W-2275 @ 3.30GHz (15%) 27,859 $2,058.00*
+Intel Core i5-12600K (15%) 27,769 $199.99
+Intel Core i7-13700H (15%) 27,653 $502.00*
+Intel Core i5-13490F (15%) 27,638 $263.66
+AMD Ryzen Threadripper 1950X (15%) 27,621 $583.10*
+AMD Ryzen Threadripper 2990X (15%) 27,606 NA
+Intel Xeon w5-3423 (15%) 27,564 $1,189.00*
+Intel Xeon Gold 6212U @ 2.40GHz (15%) 27,470 $2,000.00*
+AMD EPYC 7571 (15%) 27,445 NA
+Intel Core i5-12600KF (15%) 27,432 $219.94
+AMD Ryzen 5 PRO 7645 (15%) 27,409 NA
+Intel Xeon Gold 5317 @ 3.00GHz (15%) 27,387 $969.38
+Intel Xeon Gold 6150 @ 2.70GHz (15%) 27,337 $449.00
+Intel Xeon Platinum 8124M @ 3.00GHz (15%) 27,336 NA
+AMD Ryzen 5 7600 (15%) 27,310 $219.99
+Intel Core i7-13800H (15%) 27,307 $457.00*
+Intel Xeon D-2775TE @ 2.00GHz (15%) 27,299 $1,820.00*
+AMD EPYC 72F3 (15%) 27,252 $2,660.10
+Intel Core i5-14400 (15%) 27,235 $221.00*
+Intel Xeon Gold 6252 @ 2.10GHz (15%) 27,148 $1,785.00
+Intel Xeon Gold 6142 @ 2.60GHz (15%) 27,114 $237.50
+Intel Xeon Gold 6208U @ 2.90GHz (15%) 27,085 $717.78
+Intel Xeon Gold 6230 @ 2.10GHz (15%) 27,069 $1,276.75
+AMD Ryzen 5 7500F (15%) 26,993 NA
+Intel Xeon w3-2435 (15%) 26,960 $669.00*
+Apple M3 Pro 12 Core (15%) 26,921 NA
+AMD Ryzen 5 7645HX (15%) 26,868 NA
+Intel Xeon W-3245M @ 3.20GHz (15%) 26,814 $5,002.00*
+AMD Ryzen 7 5700X (15%) 26,726 $184.99
+Intel Xeon Platinum 8175M @ 2.50GHz (15%) 26,659 NA
+AMD Ryzen 7 5700X3D (15%) 26,526 NA
+Intel Core i7-12700H (15%) 26,370 $457.00*
+Intel Xeon D-2796TE @ 2.00GHz (15%) 26,342 $2,184.00*
+Intel Core i9-10920X @ 3.50GHz (14%) 26,308 $757.90
+Intel Xeon Gold 6242 @ 2.80GHz (14%) 26,288 $1,348.24
+Apple M2 Pro 12 Core 3480 MHz (14%) 26,246 NA
+Apple M2 Max 12 Core 3680 MHz (14%) 26,237 NA
+Intel Xeon Gold 6226R @ 2.90GHz (14%) 26,206 $1,199.00
+Intel Core i7-13620H (14%) 26,173 $502.00*
+AMD Ryzen 7 PRO 5845 (14%) 26,162 NA
+Intel Core i9-7940X @ 3.10GHz (14%) 26,094 $500.00
+Intel Xeon W-2265 @ 3.50GHz (14%) 26,045 $1,172.31*
+AMD Ryzen 7 PRO 7840HS (14%) 25,934 NA
+AMD Ryzen 5 8600G (14%) 25,928 NA
+Intel Core i9-12900E (14%) 25,921 NA
+Intel Core i5-13600T (14%) 25,897 $255.00*
+Intel Xeon W-3323 @ 3.50GHz (14%) 25,875 $949.00*
+AMD Ryzen 7 5800 (14%) 25,834 NA
+Intel Xeon W-3235 @ 3.30GHz (14%) 25,792 $1,998.95*
+Intel Xeon Gold 5218R @ 2.10GHz (14%) 25,650 $792.14
+AMD Ryzen Z1 Extreme (14%) 25,606 NA
+Intel Xeon E5-2698R v4 @ 2.20GHz (14%) 25,605 NA
+Intel Core i5-13600H (14%) 25,569 $311.00*
+AMD EPYC 7272 (14%) 25,568 $599.00
+Intel Core i5-14400F (14%) 25,548 $196.00*
+AMD Ryzen 7 7840S (14%) 25,525 NA
+Intel Xeon W-1390P @ 3.50GHz (14%) 25,451 NA
+Intel Xeon Platinum 8167M @ 2.00GHz (14%) 25,396 NA
+AMD Ryzen 7 7840U (14%) 25,378 NA
+Intel Core i9-11900K @ 3.50GHz (14%) 25,373 $318.90
+Intel Core i5-13400F (14%) 25,294 $164.99
+Intel Core i9-11900KF @ 3.50GHz (14%) 25,270 $415.99
+Intel Xeon E5-2699 v4 @ 2.20GHz (14%) 25,250 $4,019.91*
+Intel Core i9-9920X @ 3.50GHz (14%) 25,216 $610.31
+AMD EPYC 7351P (14%) 25,133 $300.00
+AMD Ryzen Threadripper 2920X (14%) 25,093 $950.00
+Intel Core i5-13400 (14%) 25,045 $228.26
+Intel Xeon Gold 5415+ (14%) 25,012 $1,066.00*
+Intel Core i7-12800H (14%) 25,006 $457.00*
+Intel Core i7-13705H (14%) 24,975 $502.00*
+AMD EPYC 7501 (14%) 24,925 $3,616.00*
+AMD Ryzen 9 6900HX (14%) 24,883 NA
+Intel Xeon Gold 6434 (14%) 24,836 $2,607.00*
+Intel Xeon Gold 6246 @ 3.30GHz (14%) 24,829 $3,113.22*
+Intel Xeon Gold 6143 @ 2.80GHz (14%) 24,786 NA
+Intel Xeon E5-2699A v4 @ 2.40GHz (14%) 24,725 $4,938.00*
+Intel Xeon E5-2696 v4 @ 2.20GHz (14%) 24,693 $1,957.18
+Intel Xeon Gold 6152 @ 2.10GHz (14%) 24,680 $341.00
+Intel Core i7-11700K @ 3.60GHz (14%) 24,675 $276.10
+AMD Ryzen 7 5700G (14%) 24,638 $167.86
+Intel Xeon Silver 4410Y (14%) 24,623 $563.00*
+Intel Core i5-12600HE (14%) 24,599 $315.00*
+Intel Core i5-13450HX (13%) 24,578 $326.00*
+Intel Xeon W-1370P @ 3.60GHz (13%) 24,540 $508.99
+AMD Ryzen 7 PRO 7840U (13%) 24,455 NA
+AMD Ryzen 7 PRO 5750G (13%) 24,442 NA
+AMD Ryzen 7 5700 (13%) 24,328 NA
+Intel Core Ultra 5 135H (13%) 24,276 NA
+AMD Ryzen 7 7735H (13%) 24,272 NA
+AMD Ryzen 7 7735HS (13%) 24,270 NA
+Intel Xeon Gold 5220 @ 2.20GHz (13%) 24,154 $1,019.05
+Intel Xeon W-2170B @ 2.50GHz (13%) 24,132 NA
+Intel Xeon E5-2679 v4 @ 2.50GHz (13%) 24,131 $2,702.00*
+Intel Core i7-11700KF @ 3.60GHz (13%) 24,069 $262.99
+Intel Core i5-12600HX (13%) 24,062 $284.00*
+Intel Xeon W-1390 @ 2.80GHz (13%) 23,902 $573.99
+Apple M3 Pro 11 Core (13%) 23,813 NA
+AMD Ryzen 9 6900HS (13%) 23,803 NA
+Intel Xeon Gold 6122 @ 1.80GHz (13%) 23,781 $2,002.00*
+Intel Xeon W-11865MRE @ 2.60GHz (13%) 23,702 $480.00*
+Intel Xeon E-2388G @ 3.20GHz (13%) 23,700 $539.00*
+AMD Ryzen 7 3800XT (13%) 23,679 $206.50
+Intel Core i5-13500T (13%) 23,619 $232.00*
+Intel Core i9-7920X @ 2.90GHz (13%) 23,616 $226.07
+AMD Ryzen 7 6800H (13%) 23,597 NA
+AMD EPYC 7351 (13%) 23,566 $649.00
+AMD Ryzen 9 5980HX (13%) 23,549 NA
+Intel Xeon E5-2698 v4 @ 2.20GHz (13%) 23,502 $908.70*
+AMD EPYC 7F32 (13%) 23,453 $2,465.51*
+Intel Xeon W-1370 @ 2.90GHz (13%) 23,449 $468.99
+Intel Core i5-14500T (13%) 23,439 $232.00*
+Intel Xeon W-2175 @ 2.50GHz (13%) 23,398 $800.00*
+Intel Xeon Gold 6146 @ 3.20GHz (13%) 23,296 $1,483.95
+AMD Ryzen 5 7640HS (13%) 23,247 NA
+Intel Core i7-12650H (13%) 23,227 $457.00*
+AMD Ryzen 7 3800X (13%) 23,185 $164.87
+Intel Xeon Platinum 8176 @ 2.10GHz (13%) 23,179 $2,793.70*
+Intel Core i7-13700TE (13%) 23,074 $390.00*
+AMD Ryzen Threadripper 1920X (13%) 23,022 $209.99
+Intel Core i9-10900K @ 3.70GHz (13%) 23,016 $319.99
+Intel Xeon Gold 6140 @ 2.30GHz (13%) 23,016 $237.50
+AMD Ryzen 7 PRO 6850H (13%) 23,007 NA
+Intel Core i9-11900 @ 2.50GHz (13%) 22,982 $419.99
+AMD Ryzen 9 PRO 6950HS (13%) 22,977 NA
+Intel Core Ultra 7 155H (13%) 22,966 NA
+AMD Ryzen 7 PRO 3700 (13%) 22,935 $329.99*
+AMD Ryzen 7 6800HS (13%) 22,934 NA
+Intel Core i9-11980HK @ 2.60GHz (13%) 22,894 $583.00*
+Intel Core i9-11900KB @ 3.30GHz (13%) 22,865 $539.00*
+Intel Core i7-11700B @ 3.20GHz (13%) 22,851 NA
+Intel Xeon Silver 4310 @ 2.10GHz (12%) 22,797 $419.56
+Intel Core i5-13500H (12%) 22,782 NA
+Intel Xeon W-11955M @ 2.60GHz (12%) 22,768 $623.00*
+Intel Core i9-10900KF @ 3.70GHz (12%) 22,744 $315.19
+Intel Core i5-12600H (12%) 22,721 $311.00*
+Intel Xeon W-1290P @ 3.70GHz (12%) 22,697 $649.40*
+Intel Xeon Platinum P-8124 @ 3.00GHz (12%) 22,674 NA
+AMD Ryzen 9 5900HX (12%) 22,638 NA
+Intel Core i9-11900F @ 2.50GHz (12%) 22,604 $418.99
+AMD Ryzen 7 3700X (12%) 22,592 $146.97
+Intel Xeon E5-2696 v3 @ 2.30GHz (12%) 22,562 $546.99*
+AMD Ryzen 7 7736U (12%) 22,560 NA
+AMD Ryzen 5 PRO 7640HS (12%) 22,526 NA
+Intel Core i9-10850K @ 3.60GHz (12%) 22,498 $265.99
+Intel Core i9-10900X @ 3.70GHz (12%) 22,479 $604.97
+Intel Xeon Gold 6138 @ 2.00GHz (12%) 22,448 $425.81
+AMD Ryzen 9 PRO 6950H (12%) 22,416 NA
+AMD Ryzen 7 6800HS Creator Edition (12%) 22,345 NA
+Intel Xeon W-2255 @ 3.70GHz (12%) 22,309 $778.00*
+Intel Xeon E5-2699C v4 @ 2.20GHz (12%) 22,308 NA
+Intel Xeon E-2378G @ 2.80GHz (12%) 22,302 $659.53*
+AMD Ryzen 9 6900HS Creator Edition (12%) 22,286 NA
+Montage Jintide C5318Y (12%) 22,237 NA
+AMD Ryzen 7 5700GE (12%) 22,196 NA
+AMD Ryzen 9 5900HS Creator Edition (12%) 22,138 NA
+Intel Core i7-12700T (12%) 22,104 $339.00*
+AMD Ryzen 5 5600X3D (12%) 22,102 NA
+AMD Ryzen Threadripper 1920 (12%) 22,066 NA
+AMD Ryzen 7 PRO 5750GE (12%) 22,037 NA
+Apple M1 Max 10 Core 3200 MHz (12%) 22,023 NA
+AMD Ryzen 7 PRO 6850HS (12%) 21,998 NA
+Intel Xeon Gold 5218 @ 2.30GHz (12%) 21,986 $977.00
+AMD EPYC 7281 (12%) 21,981 $999.99*
+AMD Ryzen 5 5600X (12%) 21,920 $156.41
+AMD Ryzen 5 PRO 5645 (12%) 21,904 NA
+AMD Ryzen 5 8500G (12%) 21,807 NA
+Intel Xeon Gold 6130T @ 2.10GHz (12%) 21,804 $2,550.00
+AMD Ryzen 9 5900HS (12%) 21,800 NA
+Apple M1 Pro 10 Core 3200 MHz (12%) 21,793 NA
+Intel Core i9-9900X @ 3.50GHz (12%) 21,780 $553.29
+Intel Xeon Gold 6132 @ 2.60GHz (12%) 21,668 $252.00
+Intel Xeon E7-8891 v3 @ 2.80GHz (12%) 21,615 $6,841.00*
+AMD EPYC 7551 (12%) 21,600 $588.00
+Intel Core i9-10910 @ 3.60GHz (12%) 21,597 NA
+AMD Ryzen 5 5600 (12%) 21,588 $119.99
+AMD Ryzen 5 7640U (12%) 21,585 NA
+Apple M2 Pro 10 Core 3480 MHz (12%) 21,543 NA
+Intel Xeon E5-2697A v4 @ 2.60GHz (12%) 21,538 NA
+Intel Xeon Gold 6334 @ 3.60GHz (12%) 21,521 $2,322.50
+AMD Ryzen 7 7735U (12%) 21,508 NA
+Intel Core i5-13500TE (12%) 21,478 $235.00*
+Intel Core i9-11950H @ 2.60GHz (12%) 21,452 $556.00*
+Intel Core i5-12500H (12%) 21,445 $311.00*
+Intel Xeon Gold 5218T @ 2.10GHz (12%) 21,433 $1,349.00*
+Intel Xeon Gold 6136 @ 3.00GHz (12%) 21,413 $398.95
+AMD Ryzen 9 5980HS (12%) 21,320 NA
+Intel Core i5-12600 (12%) 21,316 $260.00
+Intel Core i9-7900X @ 3.30GHz (12%) 21,224 $237.56
+Intel Xeon E5-2673 v4 @ 2.30GHz (12%) 21,182 $1,950.00*
+AMD Ryzen 7 5800HS Creator Edition (12%) 21,166 NA
+AMD Ryzen 7 5800H (12%) 21,113 NA
+Intel Core i7-11700F @ 2.50GHz (12%) 21,088 $225.99
+Intel Xeon W-2155 @ 3.30GHz (11%) 21,019 $1,530.39*
+Intel Core i7-7900X @ 3.30GHz (11%) 21,008 NA
+Intel Core i7-1370P (11%) 21,007 NA
+Intel Xeon Silver 4310T @ 2.30GHz (11%) 20,973 $783.99*
+AMD Ryzen 9 5900H (11%) 20,960 NA
+Intel Xeon E5-2686 v4 @ 2.30GHz (11%) 20,956 NA
+Intel Xeon Gold 6250 @ 3.90GHz (11%) 20,915 $2,200.00
+AMD Ryzen 7 PRO 6860Z (11%) 20,869 NA
+AMD Ryzen 7 PRO 6850U (11%) 20,852 NA
+Intel Xeon E5-2697R v4 @ 2.30GHz (11%) 20,843 NA
+AMD Ryzen 5 PRO 5650G (11%) 20,819 NA
+AMD EPYC 7262 (11%) 20,795 $487.10
+Intel Xeon E5-2697 v4 @ 2.30GHz (11%) 20,765 $422.00
+AMD Ryzen 7 Pro 7735U (11%) 20,753 NA
+Intel Xeon Gold 5315Y @ 3.20GHz (11%) 20,724 $1,998.95*
+AMD Ryzen 5 5600GT (11%) 20,717 NA
+Intel Core i7-11850H @ 2.50GHz (11%) 20,714 $395.00*
+Intel Core i7-11800H @ 2.30GHz (11%) 20,713 $395.00*
+Intel Core i5-12500E (11%) 20,699 $225.00*
+Intel Core i9-11900H @ 2.50GHz (11%) 20,690 $546.00*
+Intel Xeon Gold 6138T @ 2.00GHz (11%) 20,649 $3,345.78
+AMD Ryzen 7 6800U (11%) 20,644 NA
+Intel Xeon D-2753NT @ 2.00GHz (11%) 20,626 NA
+Intel Xeon Silver 4216 @ 2.10GHz (11%) 20,613 $750.00
+Intel Core i7-1280P (11%) 20,612 $482.00*
+Intel Core i5-12490F (11%) 20,570 $181.99
+Intel Xeon W-2150B @ 3.00GHz (11%) 20,531 NA
+AMD Ryzen 7 PRO 4700G (11%) 20,501 NA
+Intel Core i5-1350P (11%) 20,484 $320.00*
+AMD Ryzen 7 PRO 4750G (11%) 20,480 $248.97
+AMD EPYC 7451 (11%) 20,471 $999.00
+Intel Xeon E5-2699 v3 @ 2.30GHz (11%) 20,460 $589.95
+Intel Xeon Gold 6130 @ 2.10GHz (11%) 20,411 $1,149.45
+Intel Core i5-13400T (11%) 20,371 $221.00*
+Intel Core i5-1250P (11%) 20,352 NA
+Intel Xeon E5-4667 v4 @ 2.20GHz (11%) 20,319 $5,729.00*
+AMD Ryzen 7 5800HS (11%) 20,288 NA
+Intel Xeon D-1747NTE @ 2.50GHz (11%) 20,279 $1,201.00*
+Intel Core Ultra 5 135U (11%) 20,232 NA
+AMD Ryzen 7 4700G (11%) 20,191 $235.12
+AMD Ryzen 7 PRO 7730U (11%) 20,134 NA
+Intel Xeon W-1290 @ 3.20GHz (11%) 20,123 $588.67*
+Intel Core i9-10900F @ 2.80GHz (11%) 20,095 $332.80
+Intel Core i9-9820X @ 3.30GHz (11%) 19,996 $496.83
+Intel Xeon Gold 6144 @ 3.50GHz (11%) 19,993 $1,890.00
+Intel Core i5-12500 (11%) 19,975 $202.00*
+Intel Core i9-10900 @ 2.80GHz (11%) 19,945 $399.00
+Intel Core i7-11700 @ 2.50GHz (11%) 19,915 $194.99
+AMD Ryzen 5 5600G (11%) 19,901 $121.80
+AMD Ryzen 7 4700GE (11%) 19,831 NA
+Intel Xeon Gold 6226 @ 2.70GHz (11%) 19,810 $1,048.57
+Intel Xeon W-1350P @ 4.00GHz (11%) 19,797 $372.23
+Intel Xeon E5-2695 v4 @ 2.10GHz (11%) 19,707 $477.45
+Intel Core i5-1340P (11%) 19,685 $353.00*
+Intel Core i5-11600KF @ 3.90GHz (11%) 19,676 $214.82
+Intel Core i5-11600K @ 3.90GHz (11%) 19,657 $178.48
+Intel Xeon E-2386G @ 3.50GHz (11%) 19,613 $482.00*
+Intel Core i9-10900E @ 2.80GHz (11%) 19,595 $444.00*
+Intel Xeon E5-2690 v4 @ 2.60GHz (11%) 19,591 $471.45
+Intel Core i5-12400F (11%) 19,556 $149.99
+Intel Core Ultra 5 125H (11%) 19,543 NA
+AMD EPYC 3451 (11%) 19,532 NA
+Intel Core i9-9900KS @ 4.00GHz (11%) 19,520 $957.60
+Intel Xeon E5-2682 v4 @ 2.50GHz (11%) 19,495 NA
+AMD Ryzen 5 5500 (11%) 19,490 $84.99
+Intel Xeon W-2245 @ 3.90GHz (11%) 19,481 $841.75*
+Intel Core i5-12400 (11%) 19,447 $192.00*
+AMD EPYC 7252 (11%) 19,411 $381.92
+Intel Xeon Gold 6137 @ 3.90GHz (11%) 19,365 NA
+Intel Xeon Gold 6126 @ 2.60GHz (10%) 19,223 $180.96
+AMD Ryzen 5 7540U (10%) 19,220 NA
+Intel Core i7-1360P (10%) 19,201 $480.00*
+AMD Ryzen 9 4900H (10%) 19,189 NA
+Intel Xeon D-2752TER @ 1.80GHz (10%) 19,102 $1,104.00*
+Intel Xeon Silver 4309Y @ 2.80GHz (10%) 19,100 $434.31
+AMD Ryzen 5 PRO 6650H (10%) 19,094 NA
+AMD Ryzen 9 4900HS (10%) 19,091 NA
+Intel Xeon W-1350 @ 3.30GHz (10%) 19,015 $335.99
+AMD Ryzen 5 Pro 7535U (10%) 19,012 NA
+ARM Neoverse-N1 64 Core 2200 MHz (10%) 18,999 NA
+Intel Xeon Gold 6244 @ 3.60GHz (10%) 18,980 $2,970.00*
+Intel Xeon E5-2676 v4 @ 2.40GHz (10%) 18,978 NA
+Intel Core i5-13420H (10%) 18,971 $342.00*
+Intel Core i9-11900T @ 1.50GHz (10%) 18,968 $439.00*
+Intel Xeon E5-2698 v3 @ 2.30GHz (10%) 18,957 $7,840.00*
+Intel Xeon E-2356G @ 3.20GHz (10%) 18,952 $333.00*
+AMD Ryzen 5 6600H (10%) 18,949 NA
+Apple M3 8 Core (10%) 18,921 NA
+Intel Core i7-11850HE @ 2.60GHz (10%) 18,899 $440.00*
+Intel Core i7-10700K @ 3.80GHz (10%) 18,883 $261.19
+AMD Ryzen 7 7730U (10%) 18,836 NA
+Hygon C86 7255 16-core (10%) 18,831 NA
+ARM Neoverse-N1 80 Core 2600 MHz (10%) 18,823 NA
+Intel Xeon E5-2697 v3 @ 2.60GHz (10%) 18,807 $170.00
+Intel Xeon W-1290E @ 3.50GHz (10%) 18,786 $500.00*
+Intel Core Ultra 5 125U (10%) 18,752 $363.00*
+AMD Ryzen 5 5600GE (10%) 18,721 NA
+Intel Core i7-10700KF @ 3.80GHz (10%) 18,697 $274.99
+AMD Ryzen 5 3600XT (10%) 18,674 $368.00
+Intel Xeon W-1270E @ 3.40GHz (10%) 18,635 $367.00*
+AMD Ryzen 7 4800H (10%) 18,613 NA
+AMD Ryzen 5 6600HS Creator Edition (10%) 18,610 NA
+AMD Ryzen 7 5800U (10%) 18,579 NA
+Intel Xeon W-1270P @ 3.80GHz (10%) 18,553 $789.99
+Intel Core i5-12450HX (10%) 18,549 NA
+AMD Ryzen 7 4800HS (10%) 18,510 NA
+AMD Ryzen Z1 (10%) 18,486 NA
+AMD Ryzen 7 PRO 4750GE (10%) 18,448 NA
+AMD Ryzen 5 PRO 5650GE (10%) 18,445 NA
+AMD Ryzen 7 5825U (10%) 18,421 NA
+Intel Xeon W-1290T @ 1.90GHz (10%) 18,409 $494.00*
+Intel Xeon D-2183IT @ 2.20GHz (10%) 18,385 $1,764.00*
+AMD Ryzen Embedded V3C48 (10%) 18,361 NA
+Intel Core i9-9900K @ 3.60GHz (10%) 18,359 $565.00
+Intel Xeon Silver 4214R @ 2.40GHz (10%) 18,342 $494.79
+Intel Core i9-9900KF @ 3.60GHz (10%) 18,329 $374.99
+AMD Ryzen 5 7535HS (10%) 18,290 NA
+Intel Xeon w3-2425 (10%) 18,284 $529.00*
+Intel Xeon W-11855M @ 3.20GHz (10%) 18,282 $450.00*
+Intel Xeon E7-8880 v3 @ 2.30GHz (10%) 18,244 $133.00*
+AMD Ryzen 5 3600X (10%) 18,223 $129.88
+Intel Xeon E5-2686 v3 @ 2.00GHz (10%) 18,148 NA
+Intel Xeon W-2145 @ 3.70GHz (10%) 18,147 $1,224.67*
+Intel Xeon Gold 5120T @ 2.20GHz (10%) 18,127 $1,727.00*
+Intel Core i5-11600 @ 2.80GHz (10%) 18,110 $247.99
+AMD 4700S (10%) 18,078 NA
+Intel Core i7-9800X @ 3.80GHz (10%) 18,076 $298.67
+Intel Xeon D-2187NT @ 2.00GHz (10%) 18,070 $1,989.00*
+Intel Xeon E5-2687W v4 @ 3.00GHz (10%) 18,054 $930.00
+Intel Core i7-1270PE (10%) 17,960 $441.00*
+AMD Ryzen 5 PRO 7540U (10%) 17,955 NA
+Intel Xeon E5-2680 v4 @ 2.40GHz (10%) 17,928 $74.90
+Intel Core i7-13700E (10%) 17,832 $390.00*
+Intel Xeon D-1736NT @ 2.70GHz (10%) 17,826 NA
+AMD Ryzen 5 3600 (10%) 17,774 $83.49
+Intel Xeon Gold 6234 @ 3.30GHz (10%) 17,752 $1,424.99
+Intel Core i5-11500B @ 3.30GHz (10%) 17,752 NA
+Intel Xeon E5-2683 v4 @ 2.10GHz (10%) 17,751 $245.00
+AMD Ryzen 5 PRO 3600 (10%) 17,748 NA
+Intel Core i5-1250PE (10%) 17,738 $355.00*
+Intel Xeon Gold 5120 @ 2.20GHz (10%) 17,686 $1,561.00*
+Intel Xeon W-1270 @ 3.40GHz (10%) 17,641 $362.00*
+Intel Core i5-12600T (9%) 17,551 NA
+AMD Ryzen 7 2700X (9%) 17,548 $108.80
+Intel Xeon E5-2680R v4 @ 2.40GHz (9%) 17,487 NA
+Intel Core i7-6950X @ 3.00GHz (9%) 17,485 $283.46
+Intel Xeon W-11555MRE @ 2.60GHz (9%) 17,484 $326.00*
+Intel Core i7-1270P (9%) 17,473 NA
+AMD Ryzen 7 4980U Microsoft Surface Edition (9%) 17,469 NA
+Intel Core i5-11500 @ 2.70GHz (9%) 17,452 $208.50
+Intel Xeon E5-4669 v3 @ 2.10GHz (9%) 17,430 $5,400.00*
+Intel Core i5-12450H (9%) 17,399 $311.00*
+Intel Xeon E-2288G @ 3.70GHz (9%) 17,359 $539.00*
+Intel Core i5-1240P (9%) 17,310 NA
+Intel Core 5 120U (9%) 17,292 $340.00*
+Intel Xeon W-2140B @ 3.20GHz (9%) 17,289 NA
+Intel Core i7-7820X @ 3.60GHz (9%) 17,228 $329.88
+Intel Xeon E-2378 @ 2.60GHz (9%) 17,215 $468.81
+Intel Core i7-1260P (9%) 17,206 NA
+Intel Xeon W-3223 @ 3.50GHz (9%) 17,204 $820.55*
+AMD Ryzen 7 PRO 5850U (9%) 17,180 NA
+AMD Ryzen 5 4400G (9%) 17,160 NA
+AMD Ryzen 5 6600U (9%) 17,142 NA
+Apple M1 Pro 8 Core 3200 MHz (9%) 17,127 NA
+Intel Core i5-11400F @ 2.60GHz (9%) 17,119 $119.99
+AMD Ryzen 5 5600H (9%) 17,093 NA
+Intel Core i5-11400 @ 2.60GHz (9%) 17,093 $139.40
+Intel Xeon E-2278G @ 3.40GHz (9%) 17,023 $494.00*
+AMD EPYC 7232P (9%) 17,017 $437.59
+AMD Ryzen 5 7535U (9%) 16,946 NA
+Intel Core i9-10900TE @ 1.80GHz (9%) 16,914 $444.00*
+AMD Ryzen 7 Extreme Edition (9%) 16,903 NA
+AMD Ryzen 7 PRO 2700X (9%) 16,846 NA
+Intel Core i7-12700TE (9%) 16,833 $344.00*
+AMD Ryzen Threadripper 1900X (9%) 16,792 $139.99
+AMD Ryzen 7 4800U (9%) 16,755 NA
+AMD Ryzen 5 PRO 6650U (9%) 16,729 NA
+AMD Ryzen Embedded V2748 (9%) 16,706 NA
+Intel Xeon Gold 5118 @ 2.30GHz (9%) 16,669 $448.95
+Intel Core i5-1335U (9%) 16,661 $340.00*
+Intel Xeon Gold 6134 @ 3.20GHz (9%) 16,651 $228.00
+Intel Xeon E5-2698B v3 @ 2.00GHz (9%) 16,633 NA
+Intel Xeon E-2336 @ 2.90GHz (9%) 16,621 $347.99
+Intel Core Ultra 7 165U (9%) 16,620 NA
+Intel Core i5-12500T (9%) 16,618 $202.00*
+Intel Core i9-9900 @ 3.10GHz (9%) 16,584 $499.00
+Intel Xeon E5-2695 v3 @ 2.30GHz (9%) 16,566 $213.19
+Intel Core i5-1340PE (9%) 16,543 $315.00*
+Intel Xeon E5-2690 v3 @ 2.60GHz (9%) 16,543 $49.00
+Intel Core i7-10700 @ 2.90GHz (9%) 16,513 $227.82
+Intel Core i7-10700F @ 2.90GHz (9%) 16,509 $189.99
+AMD Ryzen 5 7530U (9%) 16,444 NA
+Intel Xeon Silver 4214Y @ 2.20GHz (9%) 16,442 $560.22
+Intel Core i7-10700E @ 2.90GHz (9%) 16,418 $330.00*
+Intel Xeon E-2278GE @ 3.30GHz (9%) 16,401 $494.00*
+AMD Ryzen 7 1800X (9%) 16,397 $295.00
+AMD Ryzen 5 PRO 4655G (9%) 16,355 NA
+AMD Ryzen 5 PRO 4400G (9%) 16,354 NA
+Intel Core i7-10700TE @ 2.00GHz (9%) 16,332 $330.00*
+Intel Xeon E5-2689 v4 @ 3.10GHz (9%) 16,319 NA
+Intel Core i7-11600H @ 2.90GHz (9%) 16,302 $395.00*
+Intel Core i5-12400T (9%) 16,277 $149.99
+Intel Xeon w3-2423 (9%) 16,272 NA
+AMD Ryzen 5 PRO 4650G (9%) 16,247 $106.99
+Intel Core i7-11700T @ 1.40GHz (9%) 16,228 $323.00*
+Intel Core i5-11500H @ 2.90GHz (9%) 16,209 $250.00*
+Intel Xeon D-2733NT @ 2.10GHz (9%) 16,206 $800.00*
+Intel Xeon Silver 4214 @ 2.20GHz (9%) 16,190 $399.40
+AMD Ryzen 5 4500 (9%) 16,159 $75.09
+Intel Core i3-1220PE (9%) 16,146 $295.00*
+Intel Xeon E5-2669 v3 @ 2.30GHz (9%) 16,107 NA
+AMD Ryzen 7 PRO 5875U (9%) 16,088 NA
+AMD Ryzen Embedded V2718 (9%) 16,075 NA
+Intel Xeon E5-2660 v4 @ 2.00GHz (9%) 16,070 $69.00
+AMD Ryzen 5 4600G (9%) 16,012 $101.99
+Intel Xeon W-11865MLE @ 1.50GHz (9%) 15,958 $467.00*
+AMD Ryzen 7 4850U Mobile (9%) 15,920 NA
+AMD Ryzen 7 5700U (9%) 15,857 NA
+Intel Core i9-13900TE (9%) 15,819 $554.00*
+Intel Xeon Gold 5117 @ 2.00GHz (9%) 15,816 NA
+Intel Core i5-11400H @ 2.70GHz (8%) 15,782 $250.00*
+Intel Core i5-11260H @ 2.60GHz (8%) 15,767 $250.00*
+AMD Ryzen 7 2700 (8%) 15,730 $104.88
+Intel Xeon W-10885M @ 2.40GHz (8%) 15,711 $623.00*
+AMD Ryzen 7 1700X (8%) 15,665 $71.64
+AMD Ryzen 5 4600GE (8%) 15,641 NA
+Intel Core i9-10980HK @ 2.40GHz (8%) 15,633 $583.00*
+Intel Xeon Gold 5215 @ 2.50GHz (8%) 15,624 $951.43
+AMD Ryzen 7 PRO 1700X (8%) 15,587 NA
+AMD Ryzen 5 PRO 4650GE (8%) 15,581 NA
+AMD Ryzen Embedded V3C18I (8%) 15,541 NA
+Intel Xeon D-1726 @ 2.90GHz (8%) 15,511 $490.00*
+AMD Ryzen 5 5600U (8%) 15,490 NA
+Intel Core i7-1365U (8%) 15,435 $426.00*
+Intel Xeon Gold 5217 @ 3.00GHz (8%) 15,429 $1,044.58
+Apple M2 8 Core 3500 MHz (8%) 15,404 NA
+Intel Xeon E5-4667 v3 @ 2.00GHz (8%) 15,397 $5,729.00*
+Intel Core i7-1355U (8%) 15,381 $469.00*
+Intel Xeon E5-4660 v4 @ 2.20GHz (8%) 15,375 $3,609.00*
+AMD Ryzen 5 PRO 7530U (8%) 15,351 NA
+Intel Xeon E5-2680 v3 @ 2.50GHz (8%) 15,343 $180.00
+AMD Ryzen 7 PRO 2700 (8%) 15,273 NA
+AMD Ryzen 7 PRO 4750U (8%) 15,230 NA
+Intel Core i9-10885H @ 2.40GHz (8%) 15,224 $556.00*
+Intel Core i5-1345U (8%) 15,206 $309.00*
+Intel Xeon Silver 4116T @ 2.10GHz (8%) 15,187 $1,112.00*
+Intel Xeon E-2286M @ 2.40GHz (8%) 15,151 $1,373.18*
+Intel Xeon Silver 4215R @ 3.20GHz (8%) 15,140 $695.00
+AMD Ryzen 5 5560U (8%) 15,109 NA
+Intel Xeon D-2166NT @ 2.00GHz (8%) 15,105 $1,005.00*
+Intel Xeon Silver 4210R @ 2.40GHz (8%) 15,089 $330.00
+Intel Core i3-14100 (8%) 15,089 NA
+Intel Xeon Silver 4116 @ 2.10GHz (8%) 15,065 $294.00
+Intel Core i3-14100F (8%) 15,052 $109.00*
+AMD Ryzen 5 5625U (8%) 15,046 NA
+Intel Core i9-10900T @ 1.90GHz (8%) 15,023 $349.99*
+AMD EPYC 7301 (8%) 14,991 $1,499.98*
+Intel Core i7-10875H @ 2.30GHz (8%) 14,983 $450.00*
+AMD EPYC 7251 (8%) 14,935 $372.00
+AMD Ryzen 5 PRO 5650U (8%) 14,899 NA
+Intel Xeon E5-2658A v3 @ 2.20GHz (8%) 14,879 $1,832.00*
+Intel Xeon D-1733NT @ 2.00GHz (8%) 14,849 $720.00*
+Intel Xeon E5-1681 v3 @ 2.90GHz (8%) 14,820 NA
+AMD Ryzen 7 1700 (8%) 14,810 $87.39
+AMD Ryzen 5 PRO 4400GE (8%) 14,795 NA
+Intel Xeon E5-2683 v3 @ 2.00GHz (8%) 14,794 $871.99*
+Intel Core i3-13100 (8%) 14,731 $128.67
+Intel Core i3-12300 (8%) 14,720 $143.00*
+Intel Core i5-11600T @ 1.70GHz (8%) 14,713 $213.00*
+Intel Xeon E5-2687W v3 @ 3.10GHz (8%) 14,690 $597.45
+Intel Xeon E5-2678 v3 @ 2.50GHz (8%) 14,687 $106.19*
+AMD Ryzen 7 PRO 1700 (8%) 14,677 NA
+Montage Jintide C4215R (8%) 14,672 NA
+Intel Core i3-13100F (8%) 14,658 $110.99
+AMD Ryzen 7 2700E (8%) 14,657 NA
+Intel Xeon Gold 5115 @ 2.40GHz (8%) 14,649 $675.00
+Intel Core i9-10880H @ 2.30GHz (8%) 14,642 NA
+AMD Ryzen 5 PRO 5675U (8%) 14,595 NA
+Intel Core i7-6900K @ 3.20GHz (8%) 14,583 $160.00
+Intel Core i7-10870H @ 2.20GHz (8%) 14,569 $417.00*
+AMD Ryzen 5 4600H (8%) 14,500 NA
+Intel Core i7-9700K @ 3.60GHz (8%) 14,494 $260.53
+Intel Core i3-1220P (8%) 14,479 $281.00*
+Intel Xeon W-1250P @ 4.10GHz (8%) 14,440 $321.50*
+Intel Xeon Silver 4215 @ 2.50GHz (8%) 14,439 $527.58
+AMD Ryzen 5 PRO 4655GE (8%) 14,436 NA
+Intel Xeon E5-2658 v4 @ 2.30GHz (8%) 14,434 NA
+Intel Xeon Silver 4123 @ 3.00GHz (8%) 14,405 NA
+Intel Xeon W-2135 @ 3.70GHz (8%) 14,388 $1,007.70*
+Intel Xeon W-2235 @ 3.80GHz (8%) 14,365 $619.99
+Intel Core i5-12500TE (8%) 14,363 $205.00*
+Intel Core i7-9700KF @ 3.60GHz (8%) 14,360 $239.98
+Intel Xeon E5-2666 v3 @ 2.90GHz (8%) 14,356 NA
+Intel Core i5-10600K @ 4.10GHz (8%) 14,353 $159.09
+Intel Core i7-8086K @ 4.00GHz (8%) 14,337 $367.00
+Intel Core i5-10600KF @ 4.10GHz (8%) 14,324 $175.99
+AMD Ryzen 5 4600HS (8%) 14,322 NA
+Intel Xeon E5-2697 v2 @ 2.70GHz (8%) 14,304 $165.00
+Intel Xeon E5-2673 v3 @ 2.40GHz (8%) 14,302 $700.00*
+Intel Xeon E5-4660 v3 @ 2.10GHz (8%) 14,256 $4,800.00*
+Intel Xeon D-1732TE @ 1.90GHz (8%) 14,254 $759.00*
+Intel Core i3-12100E (8%) 14,250 $138.00*
+Intel Core i3-12100F (8%) 14,186 $136.99
+Apple M1 8 Core 3200 MHz (8%) 14,185 NA
+Intel Core i9-9980HK @ 2.40GHz (8%) 14,146 $583.00*
+Intel Xeon E-2236 @ 3.40GHz (8%) 14,125 $499.95
+Intel Core i7-1265U (8%) 14,079 $426.00*
+Intel Xeon E5-1680 v4 @ 3.40GHz (8%) 14,054 $1,498.95*
+Intel Xeon E5-2696 v2 @ 2.50GHz (8%) 14,049 NA
+Intel Core i7-1260U (7%) 13,975 NA
+Intel Xeon E-2286G @ 4.00GHz (7%) 13,969 $1,253.00*
+Intel Xeon E-2186G @ 3.80GHz (7%) 13,955 $429.99
+AMD Ryzen 5 2600X (7%) 13,934 $77.30
+AMD EPYC 3251 (7%) 13,912 $315.00*
+Intel Xeon E-2246G @ 3.60GHz (7%) 13,899 $311.00*
+Intel Xeon E-2276G @ 3.80GHz (7%) 13,873 $460.29*
+Intel Xeon E5-2667 v4 @ 3.20GHz (7%) 13,864 $735.32
+AMD Ryzen 3 PRO 5350G (7%) 13,864 NA
+Intel Core i9-9880H @ 2.30GHz (7%) 13,863 $556.00*
+Intel Xeon E5-2650 v4 @ 2.20GHz (7%) 13,791 $39.00
+Intel Core i7-1255U (7%) 13,770 $426.00*
+Intel Core i5-10600 @ 3.30GHz (7%) 13,688 $218.21
+Intel Xeon W-1250 @ 3.30GHz (7%) 13,679 $333.48
+Intel Core i7-8700K @ 3.70GHz (7%) 13,676 $250.00
+Intel Xeon E5-2676 v3 @ 2.40GHz (7%) 13,671 NA
+Intel Core i5-1334U (7%) 13,669 $340.00*
+Intel Xeon E-2374G @ 3.70GHz (7%) 13,607 $399.99
+Intel Xeon E5-1660 v4 @ 3.20GHz (7%) 13,602 $1,494.00*
+Intel Xeon E5-2670 v3 @ 2.30GHz (7%) 13,593 $39.00
+Intel Core i5-11400T @ 1.30GHz (7%) 13,583 $182.00*
+Intel Core i5-1235U (7%) 13,563 $309.00*
+Intel Xeon W-1270TE @ 2.00GHz (7%) 13,553 $367.00*
+Intel Xeon E-2176G @ 3.70GHz (7%) 13,543 $389.99
+Intel Core i5-1245U (7%) 13,537 $309.00*
+Intel Core i3-12100 (7%) 13,514 $122.00*
+Intel Xeon E5-2658 v3 @ 2.20GHz (7%) 13,487 NA
+AMD Ryzen 5 4600U (7%) 13,479 NA
+Intel Xeon E5-2690 v2 @ 3.00GHz (7%) 13,466 $73.99
+Intel Xeon E-2136 @ 3.30GHz (7%) 13,449 $426.56
+AMD Ryzen 3 PRO 5350GE (7%) 13,448 NA
+AMD Ryzen 5 PRO 2600 (7%) 13,437 NA
+AMD Ryzen 7 4700U (7%) 13,435 NA
+Intel Xeon Gold 6128 @ 3.40GHz (7%) 13,427 $172.80
+Intel Xeon Silver 4210 @ 2.20GHz (7%) 13,340 $249.95
+AMD Ryzen 3 5300GE (7%) 13,332 NA
+Intel Xeon D-1581 @ 1.80GHz (7%) 13,282 NA
+Intel Core i7-9700F @ 3.00GHz (7%) 13,270 $202.10
+Intel Xeon E5-2695 v2 @ 2.40GHz (7%) 13,264 $73.99
+Intel Xeon E-2146G @ 3.50GHz (7%) 13,260 $495.64
+Intel Core i3-12300T (7%) 13,251 $157.00*
+Intel Core i7-9700 @ 3.00GHz (7%) 13,242 $167.29
+Intel Core i9-9900T @ 2.10GHz (7%) 13,224 $439.00*
+Intel Xeon E5-2660 v3 @ 2.60GHz (7%) 13,215 $94.28
+Intel Core i3-13100T (7%) 13,210 $134.00*
+AMD Ryzen 5 2600 (7%) 13,208 $62.27
+AMD Ryzen 5 3500X (7%) 13,191 $99.98
+Intel Xeon E5-2675 v3 @ 1.80GHz (7%) 13,180 NA
+Intel Xeon E5-1680 v3 @ 3.20GHz (7%) 13,132 $589.99*
+Intel Core i5-11500T @ 1.50GHz (7%) 13,123 $192.00*
+AMD Ryzen 5 5500U (7%) 13,109 NA
+Intel Xeon Silver 4114 @ 2.20GHz (7%) 13,082 $223.07
+AMD Ryzen 5 1600X (7%) 13,067 $138.84
+Intel Xeon D-1587 @ 1.70GHz (7%) 13,019 NA
+AMD Ryzen Embedded V2516 (7%) 13,016 NA
+Intel Xeon E5-4627 v4 @ 2.60GHz (7%) 12,969 $999.99*
+Intel Core i3-12100TE (7%) 12,961 $125.00*
+Intel Xeon E5-2685 v3 @ 2.60GHz (7%) 12,944 NA
+Intel Xeon E-2334 @ 3.40GHz (7%) 12,929 $304.99
+Intel Core i7-9700E @ 2.60GHz (7%) 12,911 $323.00*
+AMD Ryzen 3 5300G (7%) 12,893 NA
+Intel Core i7-8700 @ 3.20GHz (7%) 12,885 $139.99
+Intel Core i7-7800X @ 3.50GHz (7%) 12,871 $174.50
+Intel Core i5-1240U (7%) 12,860 NA
+Intel Xeon W-10855M @ 2.80GHz (7%) 12,855 $450.00*
+AMD Ryzen 3 PRO 7330U (7%) 12,846 NA
+Intel Core i7-10700T @ 2.00GHz (7%) 12,811 $413.99*
+Intel Core i3-1315U (7%) 12,790 $309.00*
+AMD Ryzen 5 3500 (7%) 12,777 $199.99
+AMD Ryzen 5 PRO 4650U (7%) 12,762 NA
+Intel Core i7-5960X @ 3.00GHz (7%) 12,749 $106.04
+Intel Core i5-10500 @ 3.10GHz (7%) 12,743 $228.99
+Intel Xeon E5-1680 v2 @ 3.00GHz (7%) 12,741 NA
+Intel Core i3-12100T (7%) 12,675 $122.00*
+AMD Ryzen 3 3300X (7%) 12,659 $146.64
+Intel Xeon E5-2650L v4 @ 1.70GHz (7%) 12,646 $596.32
+Intel Xeon W-2133 @ 3.60GHz (7%) 12,644 $617.00*
+Intel Xeon W-11555MLE @ 1.90GHz (7%) 12,591 $348.00*
+Intel Xeon E5-2680 v2 @ 2.80GHz (7%) 12,590 $39.00
+Intel Xeon E5-2667 v3 @ 3.20GHz (7%) 12,556 $189.00*
+Intel Xeon E5-1660 v3 @ 3.00GHz (7%) 12,544 $398.95
+Intel Xeon E5-4628L v4 @ 1.80GHz (7%) 12,461 $2,535.00*
+Intel Xeon D-2143IT @ 2.20GHz (7%) 12,461 $566.00*
+Intel Xeon E5-2618L v4 @ 2.20GHz (7%) 12,406 $902.20*
+Intel Xeon E5-2649 v3 @ 2.30GHz (7%) 12,399 NA
+Intel Xeon E5-2640 v4 @ 2.40GHz (7%) 12,398 $200.00
+AMD Ryzen 5 1600 (7%) 12,291 $51.50
+Intel Core i7-1250U (6%) 12,281 $426.00*
+Intel Xeon E5-2667 v2 @ 3.30GHz (6%) 12,252 $289.95
+Intel Xeon E5-2687W v2 @ 3.40GHz (6%) 12,249 $403.19
+Intel Core i5-10400F @ 2.90GHz (6%) 12,215 $109.00
+Intel Xeon W-1250E @ 3.50GHz (6%) 12,212 $260.00*
+Apple A17 Pro (6%) 12,204 NA
+Intel Core i5-10400 @ 2.90GHz (6%) 12,145 $114.99
+Intel Core i5-10505 @ 3.20GHz (6%) 12,140 NA
+Intel Xeon E5-2673 v2 @ 3.30GHz (6%) 12,128 NA
+Intel Xeon E5-2692 v2 @ 2.20GHz (6%) 12,119 NA
+Intel Xeon D-2141I @ 2.20GHz (6%) 12,117 $555.00*
+AMD Ryzen 5 PRO 4500U (6%) 12,117 NA
+Intel Xeon E-2278GEL @ 2.00GHz (6%) 12,024 $494.00*
+Intel Xeon E5-2650 v3 @ 2.30GHz (6%) 12,005 $15.99
+Intel Core i7-10750H @ 2.60GHz (6%) 11,988 NA
+Intel Core i7-8700B @ 3.20GHz (6%) 11,973 $303.00*
+Intel Core i7-11375H @ 3.30GHz (6%) 11,962 $482.00*
+QTI SM8650 (6%) 11,920 NA
+Intel Xeon E5-2650L v3 @ 1.80GHz (6%) 11,880 $1,365.00*
+Intel Core i7-10850H @ 2.70GHz (6%) 11,850 $395.00*
+Snapdragon 8cx Gen 3 @ 3.0 GHz (6%) 11,848 NA
+ARM Neoverse-N1 32 Core 1700 MHz (6%) 11,820 NA
+Intel Xeon E-2276M @ 2.80GHz (6%) 11,813 $450.00*
+Intel Xeon E5-2663 v3 @ 2.80GHz (6%) 11,777 NA
+ARM Neoverse-N1 80 Core 2800 MHz (6%) 11,755 NA
+Intel CC150 @ 3.50GHz (6%) 11,745 NA
+Intel Xeon D-2146NT @ 2.30GHz (6%) 11,736 $641.00*
+Intel Core i7-11370H @ 3.30GHz (6%) 11,731 $426.00*
+Microsoft SQ3 @ 3.0 GHz (6%) 11,724 NA
+Intel Xeon E5-2630 v4 @ 2.20GHz (6%) 11,719 $14.99
+Intel Core i3-13100E (6%) 11,650 $137.00*
+Intel Xeon D-1577 @ 1.30GHz (6%) 11,645 $1,176.00*
+Intel Xeon Platinum 8481C @ 2.70GHz (6%) 11,641 NA
+AMD Ryzen 3 3100 (6%) 11,623 $71.65
+Intel Xeon E5-4657L v2 @ 2.40GHz (6%) 11,613 $751.19*
+Intel Xeon E5-2648L v4 @ 1.80GHz (6%) 11,547 $1,384.57*
+Intel Xeon E-2186M @ 2.90GHz (6%) 11,526 $623.00*
+Intel Xeon E5-4669 v4 @ 2.20GHz (6%) 11,523 NA
+Intel Core i7-6850K @ 3.60GHz (6%) 11,470 $125.26
+AMD Ryzen 3 5425U (6%) 11,464 NA
+Intel Xeon E5-1650 v4 @ 3.60GHz (6%) 11,453 $429.95
+Intel Xeon Silver 4208 @ 2.10GHz (6%) 11,384 $197.91
+Intel Core i3-11100B @ 3.60GHz (6%) 11,357 NA
+Intel Xeon E5-4627 v3 @ 2.60GHz (6%) 11,344 $2,400.00*
+AMD Ryzen 3 PRO 4200G (6%) 11,315 NA
+Intel Xeon E5-2670 v2 @ 2.50GHz (6%) 11,296 $25.99
+Intel Core i3-11100HE @ 2.40GHz (6%) 11,289 $233.00*
+Intel Core i5-10500H @ 2.50GHz (6%) 11,281 $250.00*
+AMD Ryzen 3 PRO 5475U (6%) 11,272 NA
+AMD Ryzen 3 4300GE (6%) 11,216 NA Mediatek MT6989 (6%) 11,212 NA
+AMD Ryzen 5 5500H (6%) 11,182 NA
+Intel Core i7-1365URE (6%) 11,181 $463.00*
+Intel Xeon E5-2640 v3 @ 2.60GHz (6%) 11,178 $12.99
+AMD Ryzen 3 7330U (6%) 11,176 NA
+Intel Core i7-9850H @ 2.60GHz (6%) 11,172 $1,305.76*
+AMD Ryzen 5 PRO 1600 (6%) 11,134 NA
+Intel Xeon E5-2643 v4 @ 3.40GHz (6%) 11,128 $310.00
+Intel Core i5-10600T @ 2.40GHz (6%) 11,116 $213.00*
+Hygon C86 3250 8-core (6%) 11,114 NA
+Apple A16 Bionic (6%) 11,112 NA
+AMD Ryzen 3 4100 (6%) 11,081 $64.99
+Intel Xeon Silver 4209T @ 2.20GHz (6%) 11,080 $649.25*
+Intel Xeon E5-2628L v4 @ 1.90GHz (6%) 11,079 $1,364.00*
+AMD Ryzen 3 PRO 5450U (6%) 11,075 NA
+Intel Xeon E-2226G @ 3.40GHz (6%) 11,073 $331.37
+Intel Xeon E5-4650 v2 @ 2.40GHz (6%) 11,064 $498.95*
+AMD Ryzen 3 5400U (6%) 11,026 NA
+Intel Core i7-1195G7 @ 2.90GHz (6%) 10,998 $426.00*
+Intel Core i5-11320H @ 3.20GHz (6%) 10,993 $309.00*
+Apple A12X Bionic (6%) 10,992 NA
+Intel Core i5-11300H @ 3.10GHz (6%) 10,980 $309.00*
+AMD Ryzen 5 4500U (6%) 10,975 NA
+AMD Ryzen 3 4300G (6%) 10,966 $124.00
+AMD Ryzen 3 PRO 4350GE (6%) 10,957 NA
+AMD Ryzen 3 PRO 4350G (6%) 10,938 NA
+AMD Ryzen 3 PRO 4200GE (6%) 10,930 NA
+Intel Core i7-9750H @ 2.60GHz (6%) 10,923 $960.00*
+Intel Xeon E5-2618L v3 @ 2.30GHz (6%) 10,881 $1,029.95*
+Intel Xeon E-2176M @ 2.70GHz (6%) 10,878 $450.00*
+Intel Core i3-1215U (6%) 10,870 NA
+Intel Core i5-1230U (6%) 10,863 $309.00*
+Intel Xeon E5-4650 v3 @ 2.10GHz (6%) 10,838 $3,838.00*
+Intel Core i5-10500E @ 3.10GHz (6%) 10,827 $195.00*
+Intel Core i7-6800K @ 3.40GHz (6%) 10,762 $133.20
+Intel Core i7-9700T @ 2.00GHz (6%) 10,738 $323.00*
+Intel Core i5-9600KF @ 3.70GHz (6%) 10,730 $159.99
+Intel Core i5-9600K @ 3.70GHz (6%) 10,707 $201.65
+Intel Core i3-1210U (6%) 10,641 NA
+Intel Xeon E5-2470 v2 @ 2.40GHz (6%) 10,609 $29.99
+Intel Core i7-9750HF @ 2.60GHz (6%) 10,597 $395.00*
+Intel Xeon E5-2660 v2 @ 2.20GHz (6%) 10,589 $140.07*
+Intel Xeon W-2225 @ 4.10GHz (6%) 10,585 $566.05*
+Intel Core i9-8950HK @ 2.90GHz (6%) 10,570 $583.00*
+AMD Ryzen 3 PRO 4355GE (6%) 10,559 NA
+Intel Xeon E-2126G @ 3.30GHz (6%) 10,545 $339.99*
+Intel Core i7-1185G7 @ 3.00GHz (6%) 10,537 $426.00*
+Intel Xeon E5-4620 v3 @ 2.00GHz (5%) 10,525 $20.18*
+Intel Xeon E5-2658 v2 @ 2.40GHz (5%) 10,523 $126.74*
+Intel Xeon E5-2630L v4 @ 1.80GHz (5%) 10,491 $129.00
+Intel Xeon E5-2643 v3 @ 3.40GHz (5%) 10,459 $20.99*
+Intel Xeon D-1567 @ 2.10GHz (5%) 10,447 NA
+Intel Core i7-1185G7E @ 2.80GHz (5%) 10,444 $431.00*
+Intel Xeon E5-2630 v3 @ 2.40GHz (5%) 10,423 $14.99
+Intel Xeon E5-1650 v3 @ 3.50GHz (5%) 10,416 $138.51
+Intel Xeon E5-4640 v3 @ 1.90GHz (5%) 10,372 NA
+Intel Core i5-9600 @ 3.10GHz (5%) 10,357 $172.29
+Intel Xeon Silver 4109T @ 2.00GHz (5%) 10,348 $692.02*
+Intel Core i7-1165G7 @ 2.80GHz (5%) 10,329 $426.00*
+Intel Core i7-11390H @ 3.40GHz (5%) 10,305 $426.00*
+Samsung s5e9945 (5%) 10,304 NA
+Intel Core i7-8850H @ 2.60GHz (5%) 10,295 $395.00*
+Intel Core i7-5930K @ 3.50GHz (5%) 10,292 $222.37
+Intel Core i7-9700TE @ 1.80GHz (5%) 10,280 $323.00*
+Intel Xeon E5-1660 v2 @ 3.70GHz (5%) 10,278 $498.95
+Intel Core i3-10325 @ 3.90GHz (5%) 10,268 $190.10*
+Intel Core i5-1155G7 @ 2.50GHz (5%) 10,261 $309.00*
+Intel Core i7-8700T @ 2.40GHz (5%) 10,248 $389.95 QTI QCS8550 (5%) 10,219 NA
+Intel Core i5-8600K @ 3.60GHz (5%) 10,207 $118.60
+Intel Xeon Silver 4110 @ 2.10GHz (5%) 10,165 $91.00
+Intel Xeon D-1541 @ 2.10GHz (5%) 10,163 NA
+Intel Core i3-N305 (5%) 10,086 $309.00*
+Intel U300E (5%) 10,081 $196.00*
+Intel Core i5-9500F @ 3.00GHz (5%) 10,077 $134.26
+Intel Core i7-4960X @ 3.60GHz (5%) 10,072 $1,250.00
+AMD Ryzen 3 PRO 4450U (5%) 10,069 NA
+Intel Core i5-10500T @ 2.30GHz (5%) 10,065 $99.99
+Intel Xeon D-1540 @ 2.00GHz (5%) 10,061 NA
+Intel Core i3-10320 @ 3.80GHz (5%) 10,025 $139.99
+Intel Xeon E5-2687W @ 3.10GHz (5%) 10,005 $649.45
+Intel Xeon W-2125 @ 4.00GHz (5%) 9,995 $564.95*
+Intel Xeon E-2234 @ 3.60GHz (5%) 9,961 $309.99*
+Intel Core i5-1145G7 @ 2.60GHz (5%) 9,959 NA
+Intel Core i5-8600 @ 3.10GHz (5%) 9,952 $115.56
+Intel Xeon E5-2628L v3 @ 2.00GHz (5%) 9,949 NA
+Intel Core i7-8750H @ 2.20GHz (5%) 9,942 $395.00*
+Intel Xeon E5-2650 v2 @ 2.60GHz (5%) 9,908 $39.00
+Intel Core i5-10400T @ 2.00GHz (5%) 9,906 $182.00*
+Apple A15 Bionic (5%) 9,895 NA
+Intel Core i5-1145G7E @ 2.60GHz (5%) 9,869 $312.00*
+Intel Core i7-7740X @ 4.30GHz (5%) 9,868 $219.99
+Intel Core i5-1135G7 @ 2.40GHz (5%) 9,868 $309.00*
+Intel Core i7-5820K @ 3.30GHz (5%) 9,855 $120.00
+Intel Core i5-9500TE @ 2.20GHz (5%) 9,848 $192.00*
+Intel Xeon E5-2648L v3 @ 1.80GHz (5%) 9,847 $600.53*
+Intel Core i5-9500 @ 3.00GHz (5%) 9,801 $159.09
+Intel Xeon E-2324G @ 3.10GHz (5%) 9,771 $269.99
+Intel Xeon E-2274G @ 4.00GHz (5%) 9,760 $431.54*
+Intel Xeon E5-2690 @ 2.90GHz (5%) 9,754 $39.00
+Intel Xeon E-2174G @ 3.80GHz (5%) 9,741 $305.46
+Intel Xeon E5-2689 @ 2.60GHz (5%) 9,717 $182.75*
+Intel Core i7-10710U @ 1.10GHz (5%) 9,714 $644.99*
+AMD Ryzen 3 5300U (5%) 9,714 NA
+Intel Xeon D-1718T @ 2.60GHz (5%) 9,713 $314.00*
+Intel Core i3-1125G4 @ 2.00GHz (5%) 9,707 NA
+Intel Core i7-7700K @ 4.20GHz (5%) 9,654 $159.06
+Intel Core i3-1215UE (5%) 9,643 $313.00*
+AMD Ryzen 5 PRO 3350GE (5%) 9,643 NA
+Hygon C86 3185 8-core (5%) 9,627 NA
+Intel Xeon E5-4620 v2 @ 2.60GHz (5%) 9,590 $91.00*
+Intel Core i7-1068NG7 @ 2.30GHz (5%) 9,587 $426.00*
+Intel Xeon E-2244G @ 3.80GHz (5%) 9,582 $334.73*
+Intel Core i5-8500 @ 3.00GHz (5%) 9,580 $132.51
+Intel Core i5-9600T @ 2.30GHz (5%) 9,571 $213.00*
+Intel Xeon E5-2651 v2 @ 1.80GHz (5%) 9,544 $278.10*
+AMD Ryzen 5 2500X (5%) 9,521 NA
+Intel U300 (5%) 9,511 $193.00*
+Intel Core i5-9400F @ 2.90GHz (5%) 9,493 $149.99
+Intel Core i3-1305U (5%) 9,491 $309.00*
+Intel Xeon Gold 5222 @ 3.80GHz (5%) 9,489 $1,216.41
+AMD Ryzen 5 7520U (5%) 9,477 NA
+Intel Core i5-1140G7 @ 1.10GHz (5%) 9,441 NA
+Intel Core i5-1145GRE @ 2.60GHz (5%) 9,428 $362.00*
+Intel Core i7-4930K @ 3.40GHz (5%) 9,419 $171.99
+Intel Xeon E5-2680 @ 2.70GHz (5%) 9,396 $29.00
+Intel Core i5-9400 @ 2.90GHz (5%) 9,379 $137.19
+Intel Xeon E5-4655 v3 @ 2.90GHz (5%) 9,377 $4,616.00*
+Apple A12Z Bionic (5%) 9,365 NA Snapdragon 8 Gen2 Mobile Platform for Galaxy (5%) 9,362 NA
+Intel Xeon E5-1650 v2 @ 3.50GHz (5%) 9,349 $238.02
+AMD Ryzen 5 3350GE (5%) 9,343 NA
+Intel Pentium Gold 8505 (5%) 9,330 NA
+Intel Xeon E5-4627 v2 @ 3.30GHz (5%) 9,320 $498.95*
+Intel Xeon E-2134 @ 3.50GHz (5%) 9,317 $184.56
+AMD Ryzen 5 PRO 3350G (5%) 9,306 NA
+Intel Core i3-10300 @ 3.70GHz (5%) 9,304 $99.99
+Intel Core i5-8600T @ 2.30GHz (5%) 9,299 $199.99*
+Intel Xeon E5-2450 v2 @ 2.50GHz (5%) 9,292 $284.95
+Intel Xeon D-1557 @ 1.50GHz (5%) 9,285 $694.00*
+Intel Core i5-1245UE (5%) 9,283 $312.00*
+AMD Ryzen 5 3400G (5%) 9,280 $105.97
+Intel Xeon E3-1275 v6 @ 3.80GHz (5%) 9,254 $356.83
+Intel Core i5-8400 @ 2.80GHz (5%) 9,240 $142.29
+Intel Xeon E-2144G @ 3.60GHz (5%) 9,230 $331.84*
+Mediatek MT6983W/CZA (5%) 9,222 NA
+Intel Core i7-1160G7 @ 1.20GHz (5%) 9,214 $426.00*
+Intel Core i7-1265UE (5%) 9,195 $472.00*
+AMD Ryzen 5 PRO 1500 (5%) 9,182 NA Mediatek MT8798Z/CNZA (5%) 9,179 NA
+AMD Ryzen 5 PRO 3400G (5%) 9,167 NA
+Intel Xeon E5-2620 v4 @ 2.10GHz (5%) 9,162 $49.00 QTI SM8550 (5%) 9,154 NA
+Intel Xeon E5-2629 v3 @ 2.40GHz (5%) 9,139 $499.88*
+Intel Xeon E5-2643 v2 @ 3.50GHz (5%) 9,134 $19.95
+Intel Core i5-1038NG7 @ 2.00GHz (5%) 9,123 $320.00*
+Intel Core i3-10305 @ 3.80GHz (5%) 9,115 $167.11
+Intel Core i7-9850HL @ 1.90GHz (5%) 9,112 $395.00*
+Intel Xeon D-1715TER @ 2.40GHz (5%) 9,104 $285.00*
+AMD Ryzen 5 1500X (5%) 9,092 $50.94
+Intel Xeon D-1548 @ 2.00GHz (5%) 9,075 $555.00*
+Intel Xeon E5-4648 v3 @ 1.70GHz (5%) 9,061 NA
+AMD Ryzen 5 3350G (5%) 9,030 NA
+Intel Xeon E3-1280 v6 @ 3.90GHz (5%) 9,028 $550.00
+AMD Ryzen 3 7320U (5%) 9,016 NA
+Intel Core i3-10105F @ 3.70GHz (5%) 9,015 $74.00
+Intel Core i5-8500B @ 3.00GHz (5%) 9,010 $192.00*
+Intel Xeon E3-1270 v6 @ 3.80GHz (5%) 8,951 $446.00
+Intel Xeon E5-2670 @ 2.60GHz (5%) 8,939 $17.99
+Intel Core i7-6700K @ 4.00GHz (5%) 8,937 $134.99
+AMD Ryzen 5 3400GE (5%) 8,907 $355.40
+Intel Core i5-3170K @ 3.20GHz (5%) 8,882 NA
+Intel Xeon Silver 4108 @ 1.80GHz (5%) 8,871 $249.95
+Intel Xeon Gold 5122 @ 3.60GHz (5%) 8,843 $399.00
+Intel Xeon E5-2648L v2 @ 1.90GHz (5%) 8,828 $945.00*
+Intel Xeon E5-2630L v3 @ 1.80GHz (5%) 8,811 $79.00*
+Intel Xeon E3-1245 v6 @ 3.70GHz (5%) 8,783 $589.95
+Intel Core i3-10100F @ 3.60GHz (4%) 8,770 $69.50
+AMD Ryzen 5 2400G (4%) 8,733 $97.36
+ARM - 32 Core 3300 MHz (4%) 8,732 NA
+Intel Xeon E3-1240 v6 @ 3.70GHz (4%) 8,714 $305.00
+ARM X-Gene 32 Core 3300 MHz (4%) 8,684 NA
+Intel Core i3-10100 @ 3.60GHz (4%) 8,683 $96.01
+Intel Core i7-7700 @ 3.60GHz (4%) 8,655 $110.75
+Intel Core i5-1130G7 @ 1.10GHz (4%) 8,641 $309.00*
+Intel Atom C5125 (4%) 8,631 $299.00*
+Intel Xeon E5-4650 @ 2.70GHz (4%) 8,630 $124.00*
+Intel Core i3-10105 @ 3.70GHz (4%) 8,616 $104.70
+AMD Ryzen 3 7320C (4%) 8,614 NA
+ARM - 8 Core 2424 MHz (4%) 8,610 NA
+AMD Ryzen Embedded V1807B (4%) 8,588 NA
+Intel Xeon W-2223 @ 3.60GHz (4%) 8,585 $383.80
+AMD EPYC 3201 (4%) 8,545 NA
+Intel Core i7-8809G @ 3.10GHz (4%) 8,543 NA
+Apple A14 Bionic (4%) 8,540 NA
+Intel Xeon E3-1285 v6 @ 4.10GHz (4%) 8,536 $949.95
+Intel Xeon E5-4650L @ 2.60GHz (4%) 8,533 $200.00
+Intel Xeon W-11155MLE @ 1.80GHz (4%) 8,502 $242.00*
+Intel Core i5-10400H @ 2.60GHz (4%) 8,495 $250.00*
+Intel Xeon W-2123 @ 3.60GHz (4%) 8,494 $427.11*
+AMD Ryzen Embedded R2544 (4%) 8,486 NA
+Intel Core i7-8559U @ 2.70GHz (4%) 8,483 $617.00*
+AMD Ryzen 5 PRO 2400G (4%) 8,478 NA
+Intel Core i3-N300 (4%) 8,475 $309.00*
+Intel Core i5-10300H @ 2.50GHz (4%) 8,469 $250.00*
+Intel Xeon E3-1275 v5 @ 3.60GHz (4%) 8,462 $224.89
+Intel Core i5-10500TE @ 2.30GHz (4%) 8,449 $195.00*
+Intel Xeon E5-2628 v3 @ 2.50GHz (4%) 8,447 NA
+AMD EPYC 3151 (4%) 8,425 NA
+Intel Core i7-3970X @ 3.50GHz (4%) 8,408 $189.88
+Intel Xeon E3-1585 v5 @ 3.50GHz (4%) 8,408 $556.00*
+Intel Core i5-9400T @ 1.80GHz (4%) 8,405 $182.00*
+Intel Xeon E5-1660 @ 3.30GHz (4%) 8,399 $267.19
+Intel Core i7-1065G7 @ 1.30GHz (4%) 8,389 $426.00*
+Intel Xeon E3-1280 v5 @ 3.70GHz (4%) 8,388 $1,429.00
+Intel Core i7-3960X @ 3.30GHz (4%) 8,383 $1,808.00
