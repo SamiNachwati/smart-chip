@@ -1,4 +1,4 @@
-# Smart-Chip
+# SmartChip | Smart CPU Selector
 
 Compare AMD and Intel CPUs based on performance, cost, and value with an interactive Streamlit app.
 
